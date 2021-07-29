@@ -14,7 +14,7 @@ type quiz struct {
 }
 
 func main() {
-	csvFileName := flag.String("csv", "problem.csv", "a csv fle in the format of 'question,answser'")
+	csvFileName := flag.String("csv", "Data.csv", "a csv fle in the format of 'question,answser'")
 	csvLines := file(*csvFileName)
 	val := parseLines(csvLines)
 	count := 1
