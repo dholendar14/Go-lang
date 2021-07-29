@@ -1,0 +1,5 @@
+bill Breakdown:
+pie:                     .....$2.1
+cookie:                  .....$2.5
+tip:                     ....$1
+total:                    ...$5.60
